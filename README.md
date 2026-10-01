@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SgrRaj/Java_Core_Code/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SgrRaj/Java_Core_Code/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/SgrRaj/Java_Core_Code/tree/master/0088-merge-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SgrRaj/Java_Core_Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SgrRaj/Java_Core_Code/tree/master/0088-merge-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SgrRaj/Java_Core_Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SgrRaj/Java_Core_Code/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SgrRaj/Java_Core_Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
