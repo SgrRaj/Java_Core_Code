@@ -27,9 +27,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SgrRaj/Java_Core_Code/tree/master/0001-two-sum) |
 | [1748-sum-of-unique-elements](https://github.com/SgrRaj/Java_Core_Code/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/SgrRaj/Java_Core_Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/SgrRaj/Java_Core_Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SgrRaj/Java_Core_Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Counting
 |  |
